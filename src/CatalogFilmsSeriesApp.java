@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class FilmCatalog {
+public class CatalogFilmsSeriesApp {
     private static List<Series> series = new ArrayList<>();
     private static List<Movie> movies = new ArrayList<>();
     private static List<Actor> actors = new ArrayList<>();
